@@ -3,7 +3,7 @@
 💻 **Full Stack Developer in transition**  
 🎓 Graduated in **Systems Analysis and Development**  
 📚 Currently studying **Software Engineering**  
-🚀 Building practical projects with **C# & React**  
+🚀 Building practical projects with **C#**  
 
 ---
 
