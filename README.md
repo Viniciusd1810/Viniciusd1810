@@ -1,60 +1,53 @@
-# 👋 Hi, I'm Vinicius Dias da Silva  
+# 👋 Hi, I'm Vinicius Dias da Silva
 
-💻 **Full Stack Developer in transition**  
-🎓 Graduated in **Systems Analysis and Development**  
-📚 Currently studying **Software Engineering**  
-🚀 Building practical projects with **C#**  
+**Software Engineering student focused on Quality Assurance, backend development, APIs and automation.**
 
----
+I enjoy understanding how systems behave, finding failure points and improving the way software is built and validated. My current focus is moving beyond isolated course exercises and building stronger engineering fundamentals through practical projects.
 
-## 🛠️ Tech Stack  
+- 🎓 Graduate in **Systems Analysis and Development**
+- 📚 Currently studying **Software Engineering**
+- 🧪 Focused on **software quality, testing and QA engineering**
+- ⚙️ Interested in **backend development, APIs and process automation**
+- 🐧 Using **Linux** as my main development environment
 
-### 🎨 Frontend  
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)]()
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+## 🛠️ Technologies
 
-### ⚙️ Backend  
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()  
+### Languages & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🗄️ Databases
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)]()  
-
-### 🧰 Tools & Others  
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+### Quality & Engineering
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 📌 Featured Projects
 
-- 🚗 **[Parking System with C#](https://github.com/Viniciusd1810/Parking_System_With_CSharp)**  
-  A parking management system that allows users to register vehicles, manage slots, calculate fees, and remove vehicles.
+### 🏦 [Banking System with Python](https://github.com/Viniciusd1810/Banco.py)
+Object-oriented console banking system with customer and account management, sessions, deposits, withdrawals, transaction history and GitHub Actions configuration.
 
-- 📂 **[GitHub Repositories Wiki](https://github.com/Viniciusd1810/github-repositories-wiki)**  
-  React app that fetches GitHub users and displays their profile and repositories using the GitHub API.
+### 🗄️ [SQL Course Projects](https://github.com/Viniciusd1810/sql-course-dio)
+Repository containing relational database exercises and projects with ER diagrams, MySQL models and SQL scripts.
 
-- 🌐 **[Dynamic Portfolio Website](https://github.com/Viniciusd1810/Personal_Portfolio_with_Dynamic_Project_Loading)**  
-  A responsive personal website that dynamically loads repositories via the GitHub REST API.
+### 🚗 [Parking System with C#](https://github.com/Viniciusd1810/Parking_System_With_CSharp)
+Console application developed in C# to practice object-oriented programming and basic business rules.
 
-- 🎮 **[Pokédex with JavaScript + PokeAPI](https://github.com/Viniciusd1810/Pokedex_With_JavaScript_And_PokeAPI)**  
-  A web application that consumes the PokeAPI to display Pokémon data with a responsive design.
+## 🎯 Current Focus
 
----
+- Software testing fundamentals and test design
+- API and backend testing
+- Test automation
+- Python and backend engineering fundamentals
+- SQL and data modeling
+- Docker, Linux and CI workflows
 
-## 📊 GitHub Stats
+Older frontend and course exercises are kept archived as part of my learning history, while this profile highlights the projects that best represent my current direction.
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=Viniciusd1810&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusd1810&layout=compact&theme=radical)
+## 📫 Contact
 
----
-
-## 📫 How to reach me
-
-- [LinkedIn](https://www.linkedin.com/in/viniciusd1810)  
-- 📧 viniciusd1810@gmail.com  
-
----
-
-✨ *Thanks for visiting my profile! Feel free to explore my projects and connect with me.*
+- [LinkedIn](https://www.linkedin.com/in/viniciusd1810)
+- **Email:** viniciusd1810@gmail.com
